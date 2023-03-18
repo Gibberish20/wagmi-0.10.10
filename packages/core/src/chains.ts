@@ -1,6 +1,7 @@
 export {
   arbitrum,
   arbitrumGoerli,
+  baseGoerli,
   avalanche,
   avalancheFuji,
   bsc,
@@ -29,3 +30,5 @@ export {
 } from '@wagmi/chains'
 
 export type { Chain } from '@wagmi/chains'
+//"@wagmi/chains" "0.1.9"
+//"@wagmi/connectors" "0.1.7"
